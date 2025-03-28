@@ -1,0 +1,13 @@
+- Analyse exploratoire des données 
+Agréga sur les médicaments, catégories, jointure
+
+- Avoir l'état de stock actuel
+
+Une série par catégorie,
+Une série par médicament,
+
+
+- IA :
+Préselection des séries temporelles (il faut avoir l'état du stock du 1er
+
+
